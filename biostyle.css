@@ -35,6 +35,12 @@ body {
     width: 70%;
 }
 
+#bio-name {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
 /*
  First External CSS Stylesheet
  */

@@ -1,0 +1,51 @@
+/* Add your styles here */
+.navbar {
+    background: #5191fd;
+    height: 70px;
+}
+
+.header {
+    background: #cdcdcd;
+}
+
+main {
+    background: #f1f1f1;
+    padding: 20px 0px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.posts {
+    width: 1024px;
+    margin: auto;
+}
+
+.post {
+    margin: 0px 0px 20px 0px;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 20px;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 3px;
+}
+
+/* Getting rid of the default link styles here */
+.navbar li a {
+    color: #000;
+    text-decoration: none;
+}
