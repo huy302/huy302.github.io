@@ -1,3 +1,1 @@
----
-permalink: /index.html
----
+### Huy Nguyen's homepage
